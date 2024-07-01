@@ -23,8 +23,8 @@ This Python program assesses the strength of a password based on specified crite
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone <https://github.com/Geethanayagiads/prodigy_intern_task_1/tree/main/prodigy_task_1>
+   cd <prodigy_intern_task_1>
 
 2. Install dependencies:
    pip install -r requirements.txt
